@@ -21,9 +21,9 @@ every second.
 
 ## Wirring
 
-Arduino digital pin 5 -> 200Ω resistor
-200Ω resistor -> LED Anode (+)
-LED Cathode (-) -> GND
+- Arduino digital pin 5 -> 200Ω resistor
+- 200Ω resistor -> LED Anode (+)
+- LED Cathode (-) -> GND
 
 ![Circuit](images/circuit.jpg)
 
