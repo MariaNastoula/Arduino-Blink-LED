@@ -1,12 +1,11 @@
-# Arduino Blink LED
+# Arduino Blink an external LED with Arduino UNO
 
 ## Description
 
 This is my first arduino project.
 
-The project blinks an extrenal LED connected to an Arduino UNO
-through a resistor on a breadboard. The led turns on and off 
-every second.
+In this project we control an extrenal LED through Arduino UNO.
+The LED is cconnected through a 200Ω resistor on a breadboard and blinks every second.
 
 ## Components
 
@@ -27,14 +26,19 @@ every second.
 
 ![Circuit](images/circuit.jpg)
 
+## Diagram
+
+![Diagram](images/diagram.jpg)
+
 ## Skills Learned
 
+- Arduino IDE
 - setup()
 - loop()
 - pinMode()
 - digitalWrite()
 - delay()
-
+- Basic Breadboard Wiring
 ## Author
 
-Maria Nastoula
+Nastoula Maria
