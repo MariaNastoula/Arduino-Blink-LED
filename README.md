@@ -14,14 +14,14 @@ The LED is cconnected through a 200Ω resistor on a breadboard and blinks every 
 - Jumper Wires
 - LED
 - USB cable
-- 200Ω resistor
+- 220Ω resistor
 
 ![Components](images/components.jpg)
 
 ## Wirring
 
-- Arduino digital pin 5 -> 200Ω resistor
-- 200Ω resistor -> LED Anode (+)
+- Arduino digital pin 5 -> 220Ω resistor
+- 220Ω resistor -> LED Anode (+)
 - LED Cathode (-) -> GND
 
 ![Circuit](images/circuit.jpg)
